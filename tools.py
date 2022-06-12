@@ -9,6 +9,8 @@ def get_data(filename: str):
     return data
 
 
+
+
 data = get_data('bumps.json')
 
 print('.')
